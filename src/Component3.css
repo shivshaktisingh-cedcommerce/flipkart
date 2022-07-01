@@ -1,0 +1,29 @@
+.component3{
+  
+    width:100vw;
+    height:30vw;
+    background:no-repeat;
+    background-image: url("https://rukminim1.flixcart.com/flap/1688/280/image/7eea7818ab10b04a.jpg?q=50");
+}
+.btn1{
+   float:left;
+   width:3vw;
+   height:7vw;
+   margin-top:7vw;
+   font-size:2vw;
+   font-weight:bold;
+   border-top-right-radius:1vw ;
+   border-bottom-right-radius:1vw ;
+
+}
+.btn2{
+ float:right;
+ 
+   width:3vw;
+   height:7vw;
+   margin-top:7vw;
+   font-size:2vw;
+   font-weight:bold;
+   border-top-left-radius:1vw ;
+   border-bottom-left-radius:1vw ;
+}
